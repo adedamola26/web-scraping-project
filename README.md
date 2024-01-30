@@ -1,5 +1,5 @@
 # Web Scraper For Extracting English Premier League Football Players’ Data
-In this project, I scraped data about all 20 English Premier League (EPL) team’s player. Each player’s inclusion in the final dataset means they have featured,
+In this project, I scraped data about all 20 English Premier League (EPL) teams' players. Each player’s inclusion in the final dataset means they have featured,
 at least once, in their team’s matchday squad in the current EPL season. Data extracted for outfield players (i.e. non-goalkeepers) will be different from data 
 extracted for goalkeepers since their performances are largely judged based on different statistics.
 ## Motivation
