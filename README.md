@@ -20,9 +20,9 @@ are listed in the [_requirements.txt_](https://github.com/adedamola26/web-scrapi
 Python was used as my programming language.
 ## Solution
 A description of the solution can be found in the [Solution section of the report](https://github.com/adedamola26/web-scraping-project/blob/main/report.pdf). 
-By comprehensively commenting my code, I also made [the Notebook](https://github.com/adedamola26/web-scraping-project/blob/main/fbref-scraping.ipynb)
+By comprehensively commenting my code, I also made [the Notebook](fbref-scraping.ipynb)
 easier to navigate. It also includes the code for generating the scatter plot below. 
-![xG vs Goals scored](https://github.com/adedamola26/web-scraping-project/blob/main/files%20generated%20by%20running%20notebook/xG%20vs%20Goals%20Chart%2028-01-2024.png)
+![xG vs Goals scored](files%20generated%20by%20running%20notebook/scatterplot/xG%20vs%20Goals%20Chart%2028-01-2024.png)
 ## Outlook
 I could extend this project in the future to extract more appropriate data for better evaluating each player’s performance. 
 I could then use this data to train models that provide recommendations on what players to include in a squad for an upcoming FPL game week. 
